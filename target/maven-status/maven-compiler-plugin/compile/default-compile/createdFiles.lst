@@ -1,0 +1,7 @@
+fr\dta\repository\AbstractJpaRepository.class
+fr\dta\config\JpaConfiguration.class
+fr\dta\modele\User.class
+fr\dta\persistence\IoEntity.class
+service\UserService.class
+fr\dta\controller\UserController.class
+fr\dta\repository\UserRepository.class
