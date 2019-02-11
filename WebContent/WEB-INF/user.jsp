@@ -11,7 +11,8 @@
 
 	<form:form modelAttribute="user">
 		<a>Prénom : </a>
-		<form:input path="name" size="15" maxlength="100" />
+		<form:input path="
+" size="15" maxlength="100" />
 		<form:errors path="name" />
 		<br />
 		<a>Login : </a>
